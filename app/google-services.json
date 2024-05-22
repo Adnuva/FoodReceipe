@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442136745494",
+    "project_id": "tugas-ta-1909b",
+    "storage_bucket": "tugas-ta-1909b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442136745494:android:04915760daefa3f899c737",
+        "android_client_info": {
+          "package_name": "com.example.foodreceipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr-3fnvQ_yHfTnsErpdv6M9xIzuKCW2s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
